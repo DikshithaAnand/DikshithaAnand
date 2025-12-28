@@ -82,7 +82,7 @@
 ## 💫 Motto
 
 <p align="center">
-  <i>“I learn slowly, build honestly, and improve every single day.”</i>
+  <i>“I learn slowly and improve every single day.”</i>
 </p>
 
 <p align="center">
