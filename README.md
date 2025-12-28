@@ -45,15 +45,27 @@
 
 ---
 
-## 🌼 Cozy Developer Space
+## 🧠 Focus Areas & Tools
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280"/>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280"/>
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend%20Development-⚙️-2D2D2D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-📊-F7B731?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="280"/>
+  <img src="https://img.shields.io/badge/Django-Web%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-High%20Performance-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-AI%20Integration-6F42C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Design-RESTful-blue?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Collaboration-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
