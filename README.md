@@ -12,11 +12,11 @@
 
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240"/>
 
-🎓 Student Developer who enjoys **building calm, reliable, and meaningful software**  
-🐍 Focused on **Python backend development**  
-🤖 Curious about **Machine Learning** & **Large Language Models**  
-🌱 Growing through consistent practice and real-world projects  
-✨ Belief: *small improvements every day create big change*
+🎓 Student Developer passionate about **building calm, reliable, and meaningful software**  
+🐍 Focused on **Python backend development and API design**  
+🤖 Exploring **Machine Learning** and **Large Language Models**  
+🌱 Growing through consistency, practice, and real-world projects  
+✨ Belief: *small improvements every day lead to big transformations*
 
 ---
 
@@ -48,7 +48,7 @@
 ## 🧠 Focus Areas & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" height="55"/>
+  <img src="https://img.shields.io/badge/Python-Core%20Strength-3776AB?style=for-the-badge&logo=python&logoColor=white" height="55"/>
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@
 ## 💫 Motto
 
 <p align="center">
-  <i>“I learn slowly and improve every single day.”</i>
+  <i>“I learn patiently and improve a little every day.”</i>
 </p>
 
 <p align="center">
