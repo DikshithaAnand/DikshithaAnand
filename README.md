@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Dikshitha A</h1>
+<h1 align="center">Hi 👋, I'm Dikshitha Anand</h1>
 <h3 align="center">Student Developer | Python Backend | ML & AI Enthusiast</h3>
 
 <p align="center">
