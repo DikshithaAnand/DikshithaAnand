@@ -98,5 +98,5 @@
 ---
 
 <p align="center">
-  🤍 Thank you for visiting my little corner of GitHub
+  🤍 Thank you for visiting my little corner of GitHub 🤍
 </p>
