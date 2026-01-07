@@ -16,7 +16,7 @@
 🐍 Focused on **Python backend development and API design**  
 🤖 Exploring **Machine Learning** and **Large Language Models**  
 🌱 Growing through consistency, practice, and real-world projects  
-✨ Belief: *small improvements every day lead to big transformations*
+✨ Belief: *Small improvements every day lead to big transformations*
 
 ---
 
