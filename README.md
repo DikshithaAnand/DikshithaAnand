@@ -46,7 +46,7 @@
     <img src="https://skillicons.dev/icons?i=html" height="70"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" height="70"/>
+    <img src="https://skillicons.dev/icons?i=css" height="80"/>
   </a>
 </p>
 
