@@ -1,12 +1,13 @@
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F2eW5xZ2l6N2Z6NnZzZ2s3Z2ZkY2J6b3M0a2F2aWZ5aGZqZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WUlplcMpOCEmTGBtBW/giphy.gif"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x6dXU5bG96a2N5b2ZpN3I5ZHZxNHZpN2F6aWw5aHh6c2N3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif"
     width="420"
-    alt="Woman Software Developer Coding"
+    alt="Girl Developer Working on Laptop"
   />
 </p>
 
 <h1 align="center">Hi 👋, I’m Dikshitha Anand</h1>
+
 
 
 <h3 align="center">
