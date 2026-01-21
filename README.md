@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x6dXU5bG96a2N5b2ZpN3I5ZHZxNHZpN2F6aWw5aHh6c2N3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+    src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif"
     width="420"
     alt="Girl Developer Working on Laptop"
   />
