@@ -1,7 +1,7 @@
 <!-- ===================== GIRL DEVELOPER HERO ===================== -->
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif"
+    src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif"
     width="420"
     alt="Girl Developer Coding on Laptop"
   />
@@ -9,14 +9,6 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">Hi 👋, I’m Dikshitha Anand</h1>
-
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif"
-    width="420"
-    alt="Woman Developer Coding on Laptop"
-  />
-</p>
 
 <h3 align="center">
   Student Developer · Python Backend · AI & ML Explorer
