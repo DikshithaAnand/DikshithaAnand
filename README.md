@@ -22,27 +22,48 @@
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGF3YjZ5b29jY2p1bmx6b2g1a2JzM3k5b2l3cW9qZGR2dG9kY3N0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif"
+    width="180"
+  />
+</p>
+
 ---
 
 ## 🌸 About Me
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR2N3k4ZXl5N3F5eXZ5MGR6b3o1Zmd3cWw2b2x1a2k2ZWx0Y2VtYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"
+    src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"
     width="260"
   />
 </p>
 
-🎓 I’m a **student developer** who loves turning ideas into **clean, reliable software**.  
-🐍 My comfort zone is **Python backend development** and building structured APIs.  
-🤖 I’m steadily exploring **Machine Learning** and **Large Language Models**.  
-🌱 I value **discipline, fundamentals, and consistency** more than shortcuts.  
+🎓 **Student developer** who loves building **clean, reliable software**  
+🐍 Passionate about **Python backend** & well-structured APIs  
+🤖 Exploring **Machine Learning & LLMs** one step at a time  
+🌱 Believer in **discipline, fundamentals, and daily progress**
 
-✨ *I believe small improvements, done daily, create powerful long-term results.*
+✨ *Tiny steps taken consistently lead to powerful outcomes.*
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+    width="160"
+  />
+</p>
 
 ---
 
 ## 🧸 Tech Stack
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+    width="140"
+  />
+</p>
 
 ### 💻 Programming & Web
 <p align="center">
@@ -56,6 +77,13 @@
   <img src="https://skillicons.dev/icons?i=django,fastapi" height="80"/>
 </p>
 
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"
+    width="160"
+  />
+</p>
+
 ---
 
 ### 🤖 AI & Machine Learning
@@ -65,6 +93,13 @@
   />
   <img 
     src="https://img.shields.io/badge/LLMs-OpenAI-8B3DFF?style=for-the-badge&logo=openai&logoColor=white" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+    width="180"
   />
 </p>
 
@@ -93,16 +128,16 @@
   />
 </p>
 
----
-
-## 💫 Personal Motto
-
 <p align="center">
   <img 
     src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif"
-    width="220"
+    width="200"
   />
 </p>
+
+---
+
+## 💫 Personal Motto
 
 <p align="center">
   <i>
