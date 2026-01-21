@@ -1,7 +1,7 @@
 <!-- ===================== GIRL DEVELOPER HERO ===================== -->
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+    src="https://undraw.co/api/illustrations/undraw_programming_re_kg9v.svg"
     width="420"
     alt="Girl Developer Coding on Laptop"
   />
