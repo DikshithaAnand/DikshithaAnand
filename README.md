@@ -20,14 +20,6 @@
   />
 </p>
 
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Python+Backend+Developer;Building+Clean+APIs+with+FastAPI+%26+Django;Exploring+Machine+Learning+%26+LLMs;Discipline+%7C+Consistency+%7C+Growth&center=true&width=820&height=55&font=Fira+Code&size=24"
-    alt="Typing SVG"
-  />
-</p>
-
 <p align="center">
   <img 
     src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"
