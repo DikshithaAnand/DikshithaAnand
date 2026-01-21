@@ -1,18 +1,25 @@
+<!-- ===================== GIRL DEVELOPER HERO ===================== -->
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt2dXRnY3Z4NHQ0aG5hMXVtY2Z5Z3F0bWJ2ZWRjZ2V5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNQ03J5JxX6lva/giphy.gif"
+    src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif"
     width="420"
-    alt="Girl Developer Working on Laptop"
+    alt="Girl Developer Coding on Laptop"
   />
 </p>
 
 <h1 align="center">Hi 👋, I’m Dikshitha Anand</h1>
 
-
-
 <h3 align="center">
   Student Developer · Python Backend · AI & ML Explorer
 </h3>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?lines=Python+Backend+Developer;Building+Clean+APIs+with+FastAPI+%26+Django;Exploring+Machine+Learning+%26+LLMs;Discipline+%7C+Consistency+%7C+Growth&center=true&width=820&height=55&font=Fira+Code&size=24"
+    alt="Typing SVG"
+  />
+</p>
+
 
 <p align="center">
   <img 
