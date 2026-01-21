@@ -1,15 +1,13 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================== PROFESSIONAL HERO ===================== -->
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    width="360"
-    alt="Girl Developer Coding"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZxYzNqdm1rdWh0a3F5cXg3N3g4ZzM0eHhrN3R1Z2R6aTQ4a3Z6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif"
+    width="420"
+    alt="Professional Girl Developer"
   />
 </p>
 
-<h1 align="center">
-  Hi 👋 I’m <span style="color:#FF2F92;">Dikshitha Anand</span>
-</h1>
+<h1 align="center">Hi 👋, I'm Dikshitha Anand</h1>
 
 <h3 align="center">
   Student Developer · Python Backend · AI & ML Explorer
@@ -17,15 +15,15 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Python+Backend+Developer;Designing+Clean+APIs+with+FastAPI+%26+Django;Exploring+Machine+Learning+%26+LLMs;Learning+by+Building+Every+Single+Day&center=true&width=820&height=55&font=Fira+Code&size=24"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com/?lines=Python+Backend+Developer;Building+Clean+APIs+with+FastAPI+%26+Django;Exploring+Machine+Learning+%26+LLMs;Consistency+over+Shortcuts&center=true&width=820&height=55&font=Fira+Code&size=24"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGF3YjZ5b29jY2p1bmx6b2g1a2JzM3k5b2l3cW9qZGR2dG9kY3N0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif"
+    src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
     width="180"
+    alt="Coding Focus"
   />
 </p>
 
@@ -33,37 +31,16 @@
 
 ## 🌸 About Me
 
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"
-    width="260"
-  />
-</p>
+🎓 Student developer focused on **reliable, well-structured software**  
+🐍 Strong interest in **Python backend development** and clean API design  
+🤖 Gradually building expertise in **Machine Learning & Large Language Models**  
+🌱 Believe in **fundamentals, discipline, and long-term consistency**
 
-🎓 **Student developer** who loves building **clean, reliable software**  
-🐍 Passionate about **Python backend** & well-structured APIs  
-🤖 Exploring **Machine Learning & LLMs** one step at a time  
-🌱 Believer in **discipline, fundamentals, and daily progress**
-
-✨ *Tiny steps taken consistently lead to powerful outcomes.*
-
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
-    width="160"
-  />
-</p>
+✨ *I build slowly, clearly, and correctly.*
 
 ---
 
 ## 🧸 Tech Stack
-
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-    width="140"
-  />
-</p>
 
 ### 💻 Programming & Web
 <p align="center">
@@ -77,13 +54,6 @@
   <img src="https://skillicons.dev/icons?i=django,fastapi" height="80"/>
 </p>
 
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"
-    width="160"
-  />
-</p>
-
 ---
 
 ### 🤖 AI & Machine Learning
@@ -93,13 +63,6 @@
   />
   <img 
     src="https://img.shields.io/badge/LLMs-OpenAI-8B3DFF?style=for-the-badge&logo=openai&logoColor=white" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-    width="180"
   />
 </p>
 
@@ -128,29 +91,22 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif"
-    width="200"
-  />
-</p>
-
 ---
 
 ## 💫 Personal Motto
 
 <p align="center">
   <i>
-    “Build patiently. Learn deeply. Improve every single day.”
+    “I focus on fundamentals, build patiently, and improve every day.”
   </i>
 </p>
 
 <p align="center">
-  🌱 Consistency over perfection · Curiosity over fear · Progress over pause
+  Consistency over perfection · Clarity over noise · Progress over pause
 </p>
 
 ---
 
 <p align="center">
-  🤍 Thanks for stopping by — this profile evolves as I do.
+  Thanks for visiting — this profile evolves with my skills.
 </p>
