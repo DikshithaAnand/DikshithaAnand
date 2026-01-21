@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F1b2J6M2M0bTg3Y3Z3c3R0eG5nZ2R3eWRqZ3R1N2V1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/juua9i2c2fA0AIp2iq/giphy.gif"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt2dXRnY3Z4NHQ0aG5hMXVtY2Z5Z3F0bWJ2ZWRjZ2V5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNQ03J5JxX6lva/giphy.gif"
     width="420"
     alt="Girl Developer Working on Laptop"
   />
