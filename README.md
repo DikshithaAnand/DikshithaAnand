@@ -1,13 +1,13 @@
-<!-- ===================== PROFESSIONAL HERO ===================== -->
+<!-- ===================== GIRL DEVELOPER HERO ===================== -->
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZxYzNqdm1rdWh0a3F5cXg3N3g4ZzM0eHhrN3R1Z2R6aTQ4a3Z6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif"
+    src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"
     width="420"
-    alt="Professional Girl Developer"
+    alt="Woman Developer Coding"
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Dikshitha Anand</h1>
+<h1 align="center">Hi 👋, I’m Dikshitha Anand</h1>
 
 <h3 align="center">
   Student Developer · Python Backend · AI & ML Explorer
@@ -15,15 +15,16 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Python+Backend+Developer;Building+Clean+APIs+with+FastAPI+%26+Django;Exploring+Machine+Learning+%26+LLMs;Consistency+over+Shortcuts&center=true&width=820&height=55&font=Fira+Code&size=24"
+    src="https://readme-typing-svg.demolab.com/?lines=Python+Backend+Developer;Building+Clean+APIs+with+FastAPI+%26+Django;Exploring+Machine+Learning+%26+LLMs;Discipline+%7C+Consistency+%7C+Growth&center=true&width=820&height=55&font=Fira+Code&size=24"
+    alt="Typing SVG"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+    src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"
     width="180"
-    alt="Coding Focus"
+    alt="Focused Coding"
   />
 </p>
 
@@ -31,12 +32,12 @@
 
 ## 🌸 About Me
 
-🎓 Student developer focused on **reliable, well-structured software**  
-🐍 Strong interest in **Python backend development** and clean API design  
-🤖 Gradually building expertise in **Machine Learning & Large Language Models**  
-🌱 Believe in **fundamentals, discipline, and long-term consistency**
+🎓 I am a **student developer** focused on building **reliable, structured, and meaningful software**.  
+🐍 I specialize in **Python backend development** and clean API design.  
+🤖 I am steadily exploring **Machine Learning** and **Large Language Models**.  
+🌱 I value **fundamentals, discipline, and continuous improvement**.  
 
-✨ *I build slowly, clearly, and correctly.*
+✨ *I believe strong foundations lead to long-term excellence.*
 
 ---
 
@@ -93,11 +94,11 @@
 
 ---
 
-## 💫 Personal Motto
+## 💫 Personal Philosophy
 
 <p align="center">
   <i>
-    “I focus on fundamentals, build patiently, and improve every day.”
+    “Build patiently. Learn deeply. Improve every single day.”
   </i>
 </p>
 
@@ -108,5 +109,5 @@
 ---
 
 <p align="center">
-  Thanks for visiting — this profile evolves with my skills.
+  🤍 Thank you for visiting — this profile grows as I grow.
 </p>
