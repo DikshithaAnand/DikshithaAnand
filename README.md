@@ -1,7 +1,7 @@
 <!-- ===================== GIRL DEVELOPER HERO ===================== -->
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+    src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"
     width="420"
     alt="Girl Developer Coding on Laptop"
   />
