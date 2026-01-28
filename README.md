@@ -12,7 +12,7 @@
 </h1>
 
 <h3 align="center">
-  Student Developer · Python Backend · AI & ML Explorer
+  Student Developer · Python Backend · Artificial Intelligence & Machine Learning Explorer 
 </h3>
 
 <p align="center">
