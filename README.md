@@ -58,7 +58,7 @@
 
 ---
 
-### 🤖 AI & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 <p align="center">
   <img 
     src="https://img.shields.io/badge/Machine%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" 
