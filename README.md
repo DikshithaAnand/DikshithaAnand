@@ -3,7 +3,7 @@
   <img 
     src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
     width="360"
-    alt="Girl Developer Coding"
+    alt=" Developer "
   />
 </p>
 
