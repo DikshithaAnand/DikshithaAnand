@@ -53,7 +53,7 @@
 
 ### ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi" height="80"/>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,mysql" height="80"/>
 </p>
 
 ---
