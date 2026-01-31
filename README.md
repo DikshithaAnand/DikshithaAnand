@@ -46,33 +46,61 @@
 
 ### 💻 Programming & Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" height="80"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="80"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" height="80"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="80"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="80"/>
+  </a>
 </p>
 
 ---
 
 ### ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,mysql" height="80"/>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=django" height="80"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" height="80"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="80"/>
+  </a>
 </p>
 
 ---
 
 ### 🤖 Artificial Intelligence & Machine Learning
 <p align="center">
-  <img 
-    src="https://img.shields.io/badge/Machine%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" 
-  />
-  <img 
-    src="https://img.shields.io/badge/LLMs-OpenAI-8B3DFF?style=for-the-badge&logo=openai&logoColor=white" 
-  />
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Machine%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" 
+    />
+  </a>
+  <a href="https://openai.com/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LLMs-OpenAI-8B3DFF?style=for-the-badge&logo=openai&logoColor=white" 
+    />
+  </a>
 </p>
 
 ---
 
 ### 🧰 Tools & Workflow
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" height="80"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="80"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="80"/>
+  </a>
 </p>
 
 ---
