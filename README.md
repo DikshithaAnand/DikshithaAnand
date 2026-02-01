@@ -47,16 +47,16 @@
 ### 💻 Programming & Web
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" height="80"/>
+    <img src="https://skillicons.dev/icons?i=python" height="90"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" height="80"/>
+    <img src="https://skillicons.dev/icons?i=js" height="90"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" height="80"/>
+    <img src="https://skillicons.dev/icons?i=html" height="90"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" height="80"/>
+    <img src="https://skillicons.dev/icons?i=css" height="90"/>
   </a>
 </p>
 
