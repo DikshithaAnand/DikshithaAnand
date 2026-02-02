@@ -146,7 +146,7 @@
 ---
 
 <p align="center">
-  🤍 Thanks for stopping by — this profile evolves as I do.
+  🤍 Thanks for stopping by — this profile evolves as I do. Lets work together
 </p>
 
 <p align="center">
