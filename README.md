@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  Hey I’m <span style="color:#FF2F92;">Dikshitha Anand</span>
+  Hey I’m <span style="color:#FF2F92;">Dikshitha A/span>
 </h1>
 
 <h3 align="center">
