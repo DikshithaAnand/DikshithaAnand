@@ -94,7 +94,7 @@
 
 ---
 
-### 🧰 Tools & Workflow
+### 🧰 Tools
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" height="80"/>
