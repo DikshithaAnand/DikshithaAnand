@@ -85,7 +85,7 @@
 - ☁️ **Cloud & DevOps Awareness** – Docker, CI/CD concepts, deployment basics  
 - 🧠 **Model Explainability (XAI)** – SHAP, interpretability for ML models  
 - 🌐 **API Integration** – REST APIs, third-party services, backend communication  
-- 🇯🇵 **Japanese (Beginner – N5)** – Reading, vocabulary, sentence understanding  
+  
 
 ---
 
