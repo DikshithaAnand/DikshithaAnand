@@ -44,7 +44,7 @@
 
 ## 🧸 Tech Stack
 
-### 💻 Programming & Web
+### 💻 Programming & Web Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css" height="90"/>
 </p>
