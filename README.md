@@ -117,7 +117,7 @@
 
 <p align="center">
   <i>
-    “Build patiently. Learn deeply. Improve every single day.”
+    “Build patiently. Learn deeply. Improve every single day.  Take short breaks”
   </i>
 </p>
 
