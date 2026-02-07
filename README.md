@@ -128,7 +128,7 @@
 ---
 
 <p align="center">
-  🤍 Thanks for stopping by — this profile evolves as I do. Let’s work together.
+  🤍 Thanks for stopping by — this profile evolves as I do. Let’s learn
 </p>
 
 <p align="center">
