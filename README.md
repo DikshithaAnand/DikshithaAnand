@@ -12,7 +12,7 @@
 </h1>
 
 <h3 align="center">
-  Student Developer · Python Backend · Artificial Intelligence  & Machine Learning
+  Student Developer · Python Backend · AI & Machine Learning
 </h3>
 
 <p align="center">
@@ -88,6 +88,43 @@
 
 ---
 
+## ⭐ Featured Projects
+
+- 🔹 **AI Teacher (Local LLM App)**  
+  Offline AI topic explainer using Streamlit + Ollama + Phi model  
+
+- 🔹 **Loan Approval Prediction System**  
+  End-to-end ML pipeline with EDA, model training, and evaluation  
+
+- 🔹 **Image Classification App**  
+  CNN-based classifier using TensorFlow with Streamlit frontend  
+
+- 🔹 **FocusSpace – Study Timer App**  
+  Calm productivity app with session analytics and insights  
+
+📌 *More projects available in my repositories.*
+
+---
+
+## 📚 Currently Learning
+
+- Advanced **Data Structures & Algorithms** (Java-based practice)
+- **Deep Learning** architectures and optimization techniques  
+- **NLP** with practical ML use cases  
+- **System design basics** for scalable backend services  
+
+---
+
+## 🎯 Goals for 2025
+
+- Build **production-ready backend + ML projects**
+- Strengthen **problem-solving & DSA**
+- Gain **internship experience** in software / AI roles
+- Contribute to **open-source projects**
+- Improve technical communication and documentation  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -106,6 +143,19 @@
 
 ---
 
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="https://github.com/DikshithaAnand">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+</p>
+
+---
+
 ## 💫 Personal Motto
 
 <p align="center">
@@ -120,6 +170,11 @@
     “Build patiently. Learn deeply. Improve every single day. Take short breaks.”
   </i>
 </p>
+
+<p align="center">
+  🌱 Consistency over perfection · Curiosity over fear · Progress over pause
+</p>
+
 ---
 
 <p align="center">
