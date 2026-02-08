@@ -120,11 +120,6 @@
     “Build patiently. Learn deeply. Improve every single day. Take short breaks.”
   </i>
 </p>
-
-<p align="center">
-  🌱 Consistency over perfection · Curiosity over fear · Progress over pause
-</p>
-
 ---
 
 <p align="center">
