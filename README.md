@@ -12,7 +12,7 @@
 </h1>
 
 <h3 align="center">
-  Student Developer · Python Backend · AI & Machine Learning 
+  Student Developer · Python Backend · AI & Machine Learning
 </h3>
 
 <p align="center">
@@ -45,21 +45,22 @@
 
 ### 💻 Programming & Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" height="90"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" height="80"/>
 </p>
 
 ---
 
 ### ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,mysql" height="80"/>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql" height="80"/>
 </p>
 
 ---
 
 ### 🤖 Artificial Intelligence & Machine Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs-OpenAI-8B3DFF?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
@@ -67,15 +68,15 @@
 
 ### 🧰 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" height="80"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="80"/>
 </p>
 
 ---
 
-## 🧠 Additional Skills & Knowledge  <!-- ✅ NEW SECTION -->
+## 🧠 Additional Skills & Knowledge
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,docker,linux,streamlit" height="80"/>
+  <img src="https://skillicons.dev/icons?i=java,python,docker,linux,streamlit" height="80"/>
 </p>
 
 - ☕ **Java** – Strong fundamentals, OOP concepts, academic & project usage  
@@ -84,7 +85,6 @@
 - ☁️ **Cloud & DevOps Awareness** – Docker, CI/CD concepts, deployment basics  
 - 🧠 **Model Explainability (XAI)** – SHAP, interpretability for ML models  
 - 🌐 **API Integration** – REST APIs, third-party services, backend communication  
-  
 
 ---
 
@@ -117,7 +117,7 @@
 
 <p align="center">
   <i>
-    “Build patiently. Learn deeply. Improve every single day.  Take short breaks”
+    “Build patiently. Learn deeply. Improve every single day. Take short breaks.”
   </i>
 </p>
 
