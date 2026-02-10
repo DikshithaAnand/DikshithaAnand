@@ -35,7 +35,7 @@
 
 🎓 I’m a **student developer** who loves turning ideas into **clean, reliable software**.  
 🐍 My comfort zone is **Python backend development** and building structured APIs.  
-🤖 I’m steadily exploring **Machine Learning** and **Large Language Models**.  
+🤖 I’m steadily exploring **Machine Learning**, **Large Language Models** and **Agentic AI**  
 
 ✨ *I believe small improvements, done daily, create powerful long-term results.*
 
