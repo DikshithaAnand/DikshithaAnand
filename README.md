@@ -143,16 +143,17 @@
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <a href="https://www.linkedin.com/in/dikshitha-a-1536b5245/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dikshitha%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/DikshithaAnand">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  <a href="https://github.com/DikshithaAnand" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DikshithaAnand-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
