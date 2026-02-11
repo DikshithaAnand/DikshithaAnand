@@ -125,7 +125,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
   <img 
@@ -136,10 +136,18 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=DikshithaAnand&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=DikshithaAnand&theme=tokyonight&hide_border=true"
     height="180"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshithaAnand&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
 
 ---
 
