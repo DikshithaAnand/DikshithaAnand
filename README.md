@@ -7,11 +7,12 @@
   />
   &nbsp;&nbsp;&nbsp;
   <img 
-    src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"
+    src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"
     width="280"
-    alt="Female Developer Coding in Dark Setup"
+    alt="Professional Woman Developer"
   />
 </p>
+
 
 <h1 align="center">
   Hey I’m <span style="color:#FF2F92;">DIKSHITHA ANAND </span>
