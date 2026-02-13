@@ -1,11 +1,14 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    width="360"
-    alt="Problem Solver"
-  />
+  <a href="https://github.com/DikshithaAnand">
+    <img 
+      src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+      width="300"
+      alt="Problem Solver"
+    />
+  </a>
 </p>
+
 
 <h1 align="center">
   Hey I’m <span style="color:#FF2F92;">DIKSHITHA ANAND </span>
