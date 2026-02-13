@@ -2,12 +2,12 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    width="300"
-    alt="Coding Problem Solver Animation"
+    width="320"
+    style="border-radius:20px;"
+    alt="Developer Coding Animation"
   />
 </p>
 
-<h3 align="center">💻 Solving Problems One Line of Code at a Time</h3>
 
 
 
