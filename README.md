@@ -1,13 +1,14 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <a href="https://github.com/DikshithaAnand">
-    <img 
-      src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-      width="300"
-      alt="Problem Solver"
-    />
-  </a>
+  <img 
+    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+    width="300"
+    alt="Coding Problem Solver Animation"
+  />
 </p>
+
+<h3 align="center">💻 Solving Problems One Line of Code at a Time</h3>
+
 
 
 <h1 align="center">
