@@ -2,18 +2,16 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    width="280"
-    style="border-radius:15px;"
+    width="300"
     alt="Problem Solver"
   />
   &nbsp;&nbsp;&nbsp;
   <img 
-    src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
-    width="280"
-    style="border-radius:15px;"
-    alt="Software Developer Coding"
+    src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,tensorflow"
+    height="60"
   />
 </p>
+
 
 <h1 align="center">
   Hey I’m <span style="color:#FF2F92;">DIKSHITHA ANAND </span>
