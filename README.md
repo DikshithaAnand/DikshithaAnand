@@ -7,7 +7,7 @@
   />
   &nbsp;&nbsp;&nbsp;
   <img 
-    src=""https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif""
+    src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"
     width="280"
     alt="Professional Woman Developer"
   />
