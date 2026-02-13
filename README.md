@@ -2,20 +2,18 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    width="300"
+    width="280"
+    style="border-radius:15px;"
     alt="Problem Solver"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img 
-    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
-    width="300"
-    alt="Professional Coding Animation"
+    src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
+    width="280"
+    style="border-radius:15px;"
+    alt="Software Developer Coding"
   />
 </p>
-
-
-
-
 
 <h1 align="center">
   Hey I’m <span style="color:#FF2F92;">DIKSHITHA ANAND </span>
