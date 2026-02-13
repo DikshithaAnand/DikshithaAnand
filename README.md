@@ -2,13 +2,15 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    width="320"
-    style="border-radius:20px;"
-    alt="Developer Coding Animation"
+    width="300"
+    alt="Problem Solver"
   />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+    width="300"
+    alt="Professional Coding Animation"
+  />
 </p>
 
 
