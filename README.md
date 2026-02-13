@@ -5,12 +5,6 @@
     width="280"
     alt="Problem Solver"
   />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"
-    width="200"
-    alt="Professional Woman Developer"
-  />
 </p>
 
 
