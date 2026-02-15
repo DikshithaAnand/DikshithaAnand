@@ -9,7 +9,7 @@
 
 
 <h1 align="center">
-  Hey I’m <span style="color:#FF2F92;">DIKSHITHA ANAND </span>
+  Hey I’m <span style="color:#FF2F92;">D </span>
 </h1>
 
 <h3 align="center">
