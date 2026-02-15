@@ -116,6 +116,15 @@
 
 ---
 
+## 🛠️ Currently Building
+
+- 🤖 AI-powered backend systems integrating LLMs and structured APIs  
+- 🎤 Speech-to-speech translation pipelines (ASR → NLP → TTS)  
+- 📊 ML models with explainability and performance evaluation  
+- ⚙️ Scalable project architectures with clean code practices  
+
+---
+
 ## 🎯 Goals for 2025
 
 - Build **production-ready backend + ML projects**
