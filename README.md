@@ -125,6 +125,16 @@
 
 ---
 
+
+## 📈 Growth Mindset
+
+- 💡 I believe in learning by building real-world systems  
+- 🔍 I focus on understanding fundamentals before optimizing  
+- 🧠 I improve through iteration, debugging, and refinement  
+- 🚀 I aim to write production-ready code, not just academic solutions  
+
+---
+
 ## 🎯 Goals for 2025
 
 - Build **production-ready backend + ML projects**
