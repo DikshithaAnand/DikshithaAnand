@@ -112,7 +112,7 @@
 - Advanced **Data Structures & Algorithms** (Java-based practice)
 - **Deep Learning** architectures and optimization techniques  
 - **NLP** with practical ML use cases  
-- **System design basics** for scalable backend services  
+- **System design basics** for scalable backend services
 
 ---
 
