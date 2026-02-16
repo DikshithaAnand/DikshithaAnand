@@ -103,7 +103,7 @@
 - 🔹 **FocusSpace – Study Timer App**  
   Calm productivity app with session analytics and insights  
 
-📌 *More projects available in my repositories. Do check *
+📌 *More projects available in my repositories.*
 
 ---
 
