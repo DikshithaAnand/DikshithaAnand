@@ -74,7 +74,7 @@
 
 ---
 
-## 🧠 Skills
+## 🧠 Skills and Knowledge
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,docker,linux,streamlit" height="80"/>
 </p>
