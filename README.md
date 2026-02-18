@@ -134,11 +134,11 @@
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - Build **production-ready backend + ML projects**
 - Strengthen **problem-solving & DSA**
-- Gain **internship experience** in software / AI roles / 
+- Gain **internship experience** in software / AI roles / Development
 - Contribute to **open-source projects**
 - Improve technical communication and documentation 
 
