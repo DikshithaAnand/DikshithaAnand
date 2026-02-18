@@ -138,9 +138,9 @@
 
 - Build **production-ready backend + ML projects**
 - Strengthen **problem-solving & DSA**
-- Gain **internship experience** in software / AI roles
+- Gain **internship experience** in software / AI roles / 
 - Contribute to **open-source projects**
-- Improve technical communication and documentation  
+- Improve technical communication and documentation 
 
 ---
 
