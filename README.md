@@ -1,4 +1,4 @@
-<!-- ===================== HERO SECTION ===================== -->
+!-- ===================== HERO SECTION ===================== -->
 <p align="center">
   <img 
     src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
@@ -30,7 +30,7 @@
 <p align="center">
   <img
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR2N3k4ZXl5N3F5eXZ5MGR6b3o1Zmd3cWw2b2x1a2k2ZWx0Y2VtYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"
-    width="300"
+    width="400"
   />
 </p>
 
