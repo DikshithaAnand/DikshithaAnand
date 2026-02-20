@@ -7,6 +7,9 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+</p>
 
 <h1 align="center">
   Hey I’m <span style="color:#FF2F92;">Dikshitha Anand</span>
