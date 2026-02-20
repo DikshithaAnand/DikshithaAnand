@@ -6,6 +6,10 @@
     alt="Problem Solver"
   />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="380"/>
+</p>
 
 <h1 align="center">
   Hey I’m <span style="color:#FF2F92;">Dikshitha Anand</span>
