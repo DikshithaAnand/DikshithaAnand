@@ -17,6 +17,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="400"/>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="400"/>
+</p>
 
 <h1 align="center">
   Hey I’m <span style="color:#FF2F92;">Dikshitha Anand</span>
