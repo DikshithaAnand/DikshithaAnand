@@ -11,22 +11,7 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180"/>
 </p>
 
-<h1 align="center">
-<svg width="900" height="150" viewBox="0 0 900 150">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#dcdcdc;stop-opacity:1" />
-    </linearGradient>
-  </defs>
 
-  <!-- 3D depth layers -->
-  <text x="50%" y="60%" text-anchor="middle"
-        font-size="70"
-        font-family="Impact, Arial Black, sans-serif"
-        fill="#111">
-    Dikshitha Anand
-  </text>
 
   <text x="50%" y="55%" text-anchor="middle"
         font-size="70"
