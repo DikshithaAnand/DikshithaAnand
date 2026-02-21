@@ -15,33 +15,22 @@
 <svg width="900" height="260" viewBox="0 0 900 260">
 
   <!-- Background -->
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0B1020"/>
-      <stop offset="100%" stop-color="#1A1F3A"/>
-    </linearGradient>
-  </defs>
+  <rect width="100%" height="100%" fill="#0B1020" rx="25"/>
 
-  <rect width="100%" height="100%" fill="url(#bg)" rx="25"/>
-
-  <style>
-    .name {
-      font-family: 'Brush Script MT', cursive;
-      font-size: 110px;
-      font-weight: 700;
-    }
-  </style>
-
-  <!-- 3D Depth Layers -->
+  <!-- 3D Depth -->
   <text x="50%" y="60%" text-anchor="middle"
-        class="name"
+        font-family="Brush Script MT, cursive"
+        font-size="110"
+        font-weight="700"
         fill="#FFC857"
         transform="translate(14,14)">
     Dikshitha Anand
   </text>
 
   <text x="50%" y="60%" text-anchor="middle"
-        class="name"
+        font-family="Brush Script MT, cursive"
+        font-size="110"
+        font-weight="700"
         fill="#FFC857"
         transform="translate(8,8)">
     Dikshitha Anand
@@ -49,7 +38,9 @@
 
   <!-- Front Text -->
   <text x="50%" y="60%" text-anchor="middle"
-        class="name"
+        font-family="Brush Script MT, cursive"
+        font-size="110"
+        font-weight="700"
         fill="#7C83FD">
     Dikshitha Anand
   </text>
