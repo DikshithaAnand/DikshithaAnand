@@ -13,7 +13,7 @@
 
 <h1 align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2F92,50:18E0FF,100:8B3DFF&height=200&section=header&text=Dikshitha%20Anand&fontSize=65&fontColor=ffffff&fontAlignY=40&animation=fadeIn&fontAlign=50&font=Pacifico"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2F92,50:18E0FF,100:8B3DFF&height=210&section=header&text=Dikshitha%20Anand&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&font=Montserrat"
   />
 </h1>
 
