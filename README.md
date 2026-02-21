@@ -13,8 +13,8 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=65&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=120&background=00000000&lines=Dikshitha+Anand&stroke=000000&strokeWidth=2"
-    alt="Dikshitha Anand 3D Text"
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=75&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=140&background=00000000&lines=Dikshitha+Anand&stroke=111111&strokeWidth=3"
+    alt="Dikshitha Anand 3D Bold"
   />
 </h1>
 
