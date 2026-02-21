@@ -11,14 +11,49 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180"/>
 </p>
 
+<h1 align="center">
+<svg width="900" height="260" viewBox="0 0 900 260">
 
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1020"/>
+      <stop offset="100%" stop-color="#1A1F3A"/>
+    </linearGradient>
+  </defs>
 
-  <text x="50%" y="55%" text-anchor="middle"
-        font-size="70"
-        font-family="Impact, Arial Black, sans-serif"
-        fill="url(#grad)">
+  <rect width="100%" height="100%" fill="url(#bg)" rx="25"/>
+
+  <style>
+    .name {
+      font-family: 'Brush Script MT', cursive;
+      font-size: 110px;
+      font-weight: 700;
+    }
+  </style>
+
+  <!-- 3D Depth Layers -->
+  <text x="50%" y="60%" text-anchor="middle"
+        class="name"
+        fill="#FFC857"
+        transform="translate(14,14)">
     Dikshitha Anand
   </text>
+
+  <text x="50%" y="60%" text-anchor="middle"
+        class="name"
+        fill="#FFC857"
+        transform="translate(8,8)">
+    Dikshitha Anand
+  </text>
+
+  <!-- Front Text -->
+  <text x="50%" y="60%" text-anchor="middle"
+        class="name"
+        fill="#7C83FD">
+    Dikshitha Anand
+  </text>
+
 </svg>
 </h1>
 
