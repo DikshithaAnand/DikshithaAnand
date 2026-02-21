@@ -15,9 +15,12 @@
   Hey I’m <span style="color:#FF2F92;">Dikshitha Anand</span>
 </h1>
 
-<h3 align="center">
-   Developer · Python Backend · AI & Machine Learning
-</h3>
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF2F92&center=true&vCenter=true&width=600&lines=Dikshitha+Anand"
+    alt="Dikshitha Anand Animated Name"
+  />
+</h1>
 
 <p align="center">
   <img 
