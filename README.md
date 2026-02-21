@@ -11,48 +11,8 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180"/>
 </p>
 
-<h1 align="center">
-<svg width="900" height="260" viewBox="0 0 900 260">
-
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="#0B1020" rx="25"/>
-
-  <!-- 3D Depth -->
-  <text x="50%" y="60%" text-anchor="middle"
-        font-family="Brush Script MT, cursive"
-        font-size="110"
-        font-weight="700"
-        fill="#FFC857"
-        transform="translate(14,14)">
-    Dikshitha Anand
-  </text>
-
-  <text x="50%" y="60%" text-anchor="middle"
-        font-family="Brush Script MT, cursive"
-        font-size="110"
-        font-weight="700"
-        fill="#FFC857"
-        transform="translate(8,8)">
-    Dikshitha Anand
-  </text>
-
-  <!-- Front Text -->
-  <text x="50%" y="60%" text-anchor="middle"
-        font-family="Brush Script MT, cursive"
-        font-size="110"
-        font-weight="700"
-        fill="#7C83FD">
-    Dikshitha Anand
-  </text>
-
-</svg>
-</h1>
-
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Python+Backend+Developer;Designing+Clean+APIs+with+FastAPI+%26+Django;Exploring+Machine+Learning+%26+LLMs;Learning+by+Building+Every+Single+Day&center=true&width=820&height=55&font=Fira+Code&size=24"
-    alt="Typing SVG"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0B1020&text=Dikshitha%20Anand&fontSize=90&fontColor=7C83FD&stroke=FFC857&strokeWidth=6&fontAlignY=60&font=Brush%20Script%20MT" />
 </p>
 
 ---
