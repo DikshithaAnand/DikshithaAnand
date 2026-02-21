@@ -13,7 +13,7 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=2500&pause=800&color=FF2F92&center=true&vCenter=true&width=700&lines=Dikshitha+Anand;&repeat=true"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2F92,50:18E0FF,100:8B3DFF&height=150&section=header&text=Dikshitha%20Anand&fontSize=40&fontColor=ffffff&animation=fadeIn"
   />
 </h1>
 
