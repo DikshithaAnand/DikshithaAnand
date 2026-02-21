@@ -13,8 +13,7 @@
 
 <h1 align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=transparent&height=220&section=header&text=Dikshitha%20Anand&fontSize=90&fontColor=FFFFFF&stroke=000000&strokeWidth=4&font=Anton"
-    alt="Dikshitha Anand 3D Text"
+    src="https://capsule-render.vercel.app/api?type=rect&color=transparent&height=240&section=header&text=Dikshitha%20Anand&fontSize=95&fontColor=FFFFFF&stroke=000000&strokeWidth=5&font=Anton"
   />
 </h1>
 
