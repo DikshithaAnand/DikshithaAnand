@@ -13,9 +13,11 @@
 
 <h1 align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=transparent&height=220&section=header&text=Dikshitha%20Anand&fontSize=90&fontColor=FFFFFF&stroke=111111&strokeWidth=4&font=Anton"
+    src="https://capsule-render.vercel.app/api?type=rect&color=transparent&height=220&section=header&text=Dikshitha%20Anand&fontSize=90&fontColor=FFFFFF&stroke=000000&strokeWidth=4&font=Anton"
+    alt="Dikshitha Anand 3D Text"
   />
 </h1>
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com/?lines=Python+Backend+Developer;Designing+Clean+APIs+with+FastAPI+%26+Django;Exploring+Machine+Learning+%26+LLMs;Learning+by+Building+Every+Single+Day&center=true&width=820&height=55&font=Fira+Code&size=24"
