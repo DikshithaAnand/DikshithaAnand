@@ -141,21 +141,21 @@
 <p align="center">
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=DikshithaAnand&show_icons=true&theme=tokyonight&hide_border=true"
-    height="200"
+    height="300"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=DikshithaAnand&theme=tokyonight&hide_border=true"
-    height="200"
+    height="300"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DikshithaAnand&layout=compact&theme=tokyonight&hide_border=true"
-    height="200"
+    height="300"
   />
 </p>
 
