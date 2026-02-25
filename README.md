@@ -83,7 +83,7 @@
 ## ⭐ Featured Projects
 
 - 🔹 **AI Teacher (Local LLM App)**  
-  Offline AI topic explainer using Streamlit + Ollama + Phi model  
+  Offline AI topic explainer using Streamlit + Ollama + Phi model
 
 - 🔹 **Loan Approval Prediction System**  
   End-to-end ML pipeline with EDA, model training, and evaluation  
