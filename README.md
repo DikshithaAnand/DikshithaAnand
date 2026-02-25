@@ -33,7 +33,7 @@
 ✨ *I believe small improvements, done daily, create powerful long-term results.*
 
 ---
----
+
 
 ## 🧸 Tech Stack
 
