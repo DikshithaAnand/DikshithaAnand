@@ -26,12 +26,15 @@
   />
 </p>
 
-🎓 I’m a **student developer** who loves turning ideas into **clean, reliable software**.  
-🐍 My comfort zone is **Python backend development** and building structured APIs.  
-🤖 I’m steadily exploring **Machine Learning**, **Large Language Models** and **Agentic AI**  
+## 👩‍💻 About Me
 
-✨ *I believe small improvements, done daily, create powerful long-term results.*
+🎓 I am a **Student Developer** passionate about transforming ideas into **clean, scalable, and reliable software solutions**.  
 
+🐍 I specialize in **Python Backend Development**, with a strong focus on designing structured APIs and maintainable systems.  
+
+🤖 Currently, I am expanding my expertise in **Machine Learning**, **Large Language Models (LLMs)**, and **Agentic AI systems**.  
+
+✨ *I believe that consistent small improvements lead to powerful long-term success.*
 ---
 
 
