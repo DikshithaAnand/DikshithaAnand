@@ -39,14 +39,14 @@
 
 ### 💻 Programming & Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" height="200"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" height="300"/>
 </p>
 
 ---
 
 ### ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql" height="200"/>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql" height="300"/>
 </p>
 
 ---
