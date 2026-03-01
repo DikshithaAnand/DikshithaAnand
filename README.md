@@ -78,7 +78,7 @@
 - ☕ **Java** – Strong fundamentals, OOP concepts, academic & project usage  
 - 📊 **Data Structures & Algorithms** – Actively practicing and improving problem-solving  
 - 🧪 **NLP Basics** – Tokenization, text processing, model exploration  
-- ☁️ **Cloud & DevOps Awareness** – Docker, CI/CD concepts, deployment basics  
+- ☁️ **Cloud & DevOps Awareness** – Docker, CI/CD concepts.
 - 🧠 **Model Explainability (XAI)** – SHAP, interpretability for ML models  
 - 🌐 **API Integration** – REST APIs, third-party services, backend communication  
 
