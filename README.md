@@ -34,7 +34,7 @@
 
 🤖 Currently, I am expanding my expertise in **Machine Learning**, **Large Language Models (LLMs)**, and **Agentic AI systems**.  
 
-✨ *I believe that consistent small improvements lead to powerful long-term **success**.*
+
 
 ---
 
