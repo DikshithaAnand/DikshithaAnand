@@ -50,7 +50,7 @@
 
 ### ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql" height="300"/>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql" height="280"/>
 </p>
 
 ---
