@@ -152,7 +152,7 @@
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=DikshithaAnand&theme=tokyonight&hide_border=true"
-    height="550"
+    height="500"
   />
 </p>
 
