@@ -66,7 +66,7 @@
 
 ### 🧰 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="200"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="250"/>
 </p>
 
 ---
