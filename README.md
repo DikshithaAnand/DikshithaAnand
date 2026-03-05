@@ -32,7 +32,7 @@
 
 🐍 I specialize in **Python Backend Development**, with a strong focus on designing structured APIs and maintainable systems.  
 
-🤖 Currently, I am expanding my expertise in **Machine Learning**, **Large Language Models (LLMs)**, and **Agentic AI systems**.  
+🤖 Currently, I am expanding my expertise in **Machine Learning**, **Large Language Models (LLMs)**, **Generative AI** and **Agentic AI systems**.  
 
 
 
