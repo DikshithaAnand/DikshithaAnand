@@ -186,7 +186,7 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"
-    width="480"
+    width="490"
     alt="Hacker Matrix Code"
   />
 </p>
