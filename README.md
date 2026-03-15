@@ -200,7 +200,7 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif"
-    width="490"
+    width="400"
   />
 </p>
 
