@@ -42,7 +42,7 @@
 
 ### 💻 Programming & Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" height="400"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" height="300"/>
 </p>
 
 ---
