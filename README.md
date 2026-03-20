@@ -72,7 +72,7 @@
 
 ## 🧠 Skills and Knowledge
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,docker,linux,streamlit" height="250"/>
+  <img src="https://skillicons.dev/icons?i=java,python,docker,linux,streamlit" height="300"/>
 </p>
 
 - ☕ **Java** – Strong fundamentals, OOP concepts, academic & project usage  
