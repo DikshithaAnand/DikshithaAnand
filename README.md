@@ -218,7 +218,8 @@
 
 <p align="center">
   🤍 Thanks for stopping by - this profile evolves as I do.
-  Let’s work and learn together
+      Let’s work and learn together.
+      Check out my LinkedIn.
 </p>
 
 <p align="center">
