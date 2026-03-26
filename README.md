@@ -135,7 +135,7 @@
 - Strengthen **problem-solving & DSA**
 - Gain **internship experience** in software / AI roles / Development
 - Contribute to **open-source projects**
-- Improve technical communication and documentation 
+- Improve technical communication and documentation.
 
 ---
 
