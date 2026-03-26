@@ -165,7 +165,7 @@
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=DikshithaAnand&theme=tokyo-night"
-    height="400"
+    height="500"
   />
 </p>
 
