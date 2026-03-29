@@ -65,14 +65,14 @@
 
 ### 🧰 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="400"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="500"/>
 </p>
 
 ---
 
 ## 🧠 Skills and Knowledge
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,docker,linux,streamlit" height="300"/>
+  <img src="https://skillicons.dev/icons?i=java,python,docker,linux,streamlit" height="400"/>
 </p>
 
 - ☕ **Java** – Strong fundamentals, OOP concepts, academic & project usage  
