@@ -200,7 +200,7 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif"
-    width="450"
+    width="400"
   />
 </p>
 
@@ -225,7 +225,7 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    width="300"
+    width="400"
     alt="Girl Developer Coding"
   />
 </p>
