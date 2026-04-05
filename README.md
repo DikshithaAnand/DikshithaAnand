@@ -187,10 +187,12 @@
 ---
 
 ## 💫 Personal Motto
+
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif"
+    src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"
     width="400"
+    alt="Hacker Matrix Code"
   />
 </p>
 
