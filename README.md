@@ -70,18 +70,26 @@
 
 ---
 
-## 🧠 Skills and Knowledge
+## 🧠 Skills & Technologies
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,docker,linux,streamlit" height="400"/>
+  <img src="https://skillicons.dev/icons?i=java,python,docker,linux,streamlit,mysql,git,github,vscode,tensorflow" height="400"/>
 </p>
 
-- ☕ **Java** – Strong fundamentals, OOP concepts, academic & project usage  
-- 📊 **Data Structures & Algorithms** – Actively practicing and improving problem-solving  
-- 🧪 **NLP Basics** – Tokenization, text processing, model exploration  
-- ☁️ **Cloud & DevOps Awareness** – Docker, CI/CD concepts.
-- 🧠 **Model Explainability (XAI)** – SHAP, interpretability for ML models  
-- 🌐 **API Integration** – REST APIs, third-party services, backend communication  
-
+- ☕ **Java** – Strong foundation in Core Java, OOP, JDBC, Swing, and backend development  
+- 🐍 **Python** – Automation, data analysis, machine learning, AI project development  
+- 📊 **Data Structures & Algorithms** – Problem-solving with Java, LeetCode & coding interview preparation  
+- 🤖 **Artificial Intelligence & Machine Learning** – Model building, training, prediction systems  
+- 🧠 **Deep Learning** – LSTM, neural networks, TensorFlow/Keras projects  
+- 🧪 **Natural Language Processing (NLP)** – Text preprocessing, sentiment analysis, chatbot basics  
+- 🔍 **Explainable AI (XAI)** – SHAP, feature importance, model interpretability  
+- 🌐 **Web Development** – Frontend + backend integration, responsive UI systems  
+- 🔗 **API Integration** – REST APIs, third-party services, Flask/FastAPI communication  
+- 🐳 **Docker** – Containerization, deployment basics, portable environments  
+- ☁️ **Cloud & DevOps** – CI/CD concepts, deployment workflows, version control  
+- 🐧 **Linux** – Command line operations, environment setup, server basics  
+- 🗄️ **Database Management** – MySQL, Firebase, SQL queries, data handling  
+- 🛠️ **Tools & Platforms** – Git, GitHub, VS Code, Streamlit, Postman  
 ---
 
 ## ⭐ Featured Projects
@@ -217,7 +225,7 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    width="500"
+    width="400"
     alt="Girl Developer Coding"
   />
 </p>
