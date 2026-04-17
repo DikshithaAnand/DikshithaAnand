@@ -7,8 +7,9 @@
   />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1pOHYxNWI2ZXl2N2c2eDRpZnV4Z2t1c2l4YzNtbGR4YzR1dXByZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0B1020&text=Dikshitha%20Anand&fontSize=70&fontColor=7C83FD&stroke=FFC857&strokeWidth=6&fontAlignY=70&font=Brush%20Script%20MT" />
