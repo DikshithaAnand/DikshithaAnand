@@ -8,10 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0B1020&text=Dikshitha%20Anand&fontSize=70&fontColor=7C83FD&stroke=FFC857&strokeWidth=6&fontAlignY=70&font=Brush%20Script%20MT" />
 </p>
 
