@@ -73,21 +73,22 @@
   <img src="https://skillicons.dev/icons?i=java,python,docker,linux,streamlit,mysql,git,github,vscode,tensorflow" height="400"/>
 </p>
 
-- ☕ **Java** – Strong foundation in Core Java, OOP, JDBC, Swing, and backend development  
-- 🐍 **Python** – Automation, data analysis, machine learning, AI project development  
-- 📊 **Data Structures & Algorithms** – Problem-solving with Java, LeetCode & coding interview preparation  
-- 🤖 **Artificial Intelligence & Machine Learning** – Model building, training, prediction systems  
-- 🧠 **Deep Learning** – LSTM, neural networks, TensorFlow/Keras projects  
-- 🧪 **Natural Language Processing (NLP)** – Text preprocessing, sentiment analysis, chatbot basics  
-- 🔍 **Explainable AI (XAI)** – SHAP, feature importance, model interpretability  
-- 🌐 **Web Development** – Frontend + backend integration, responsive UI systems  
-- 🔗 **API Integration** – REST APIs, third-party services, Flask/FastAPI communication  
-- 🐳 **Docker** – Containerization, deployment basics, portable environments  
-- ☁️ **Cloud & DevOps** – CI/CD concepts, deployment workflows, version control  
-- 🐧 **Linux** – Command line operations, environment setup, server basics  
-- 🗄️ **Database Management** – MySQL, Firebase, SQL queries, data handling  
-- 🛠️ **Tools & Platforms** – Git, GitHub, VS Code, Streamlit, Postman  
----
+## 💻 Technical Skills
+
+- **Java** – Strong foundation in Core Java, OOP, JDBC, Swing, backend development  
+- **Python** – Automation, data analysis, machine learning, AI-based projects  
+- **Data Structures & Algorithms** – Problem-solving with Java, LeetCode practice, interview prep  
+- **Artificial Intelligence & Machine Learning** – Model training, prediction systems, applied ML workflows  
+- **Deep Learning** – Neural networks, LSTM, TensorFlow, Keras projects  
+- **Natural Language Processing (NLP)** – Text preprocessing, sentiment analysis, chatbot fundamentals  
+- **Explainable AI (XAI)** – SHAP, feature importance, interpretable ML systems  
+- **Web Development** – Frontend + backend integration, responsive web applications  
+- **API Integration** – REST APIs, third-party services, Flask/FastAPI communication  
+- **Docker** – Containerization, deployment basics, portable environments  
+- **Cloud & DevOps** – CI/CD concepts, deployment workflows, version control practices  
+- **Linux** – Command-line operations, environment setup, server basics  
+- **Database Management** – MySQL, Firebase, SQL queries, data handling  
+- **Tools & Platforms** – Git, GitHub, VS Code, Streamlit, Postman
 
 ## ⭐ Featured Projects
 
