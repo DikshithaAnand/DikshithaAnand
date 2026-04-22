@@ -128,10 +128,10 @@
 
 ## 📈 Growth Mindset
 
-- 💡 I believe in learning by building real-world systems  
-- 🔍 I focus on understanding fundamentals before optimizing  
-- 🧠 I improve through iteration, debugging, and refinement  
-- 🚀 I aim to write production-ready code, not just academic solutions  
+- 💡 I learn best by building practical, real-world solutions.
+- 🔍 I prioritize mastering fundamentals before moving to optimization.
+- 🧠 I grow through continuous iteration, debugging, and improvement.
+- 🚀 I strive to create production-ready systems, not just theoretical solutions. 
 
 ---
 
