@@ -24,11 +24,17 @@
 
 ## 👩‍💻 About Me
 
-🎓 I am a **Student Developer** passionate about transforming ideas into **clean, scalable, and reliable software solutions**.  
+🎓 I am a **Student Developer** with a strong passion for building **innovative, scalable, and user-focused software solutions** that solve real-world problems.  
 
-🐍 I specialize in **Python Backend Development**, with a strong focus on designing structured APIs and maintainable systems.  
+🐍 My core expertise lies in **Python Backend Development**, where I enjoy designing clean architectures, developing efficient APIs, and creating reliable, maintainable systems.  
 
-🤖 Currently, I am expanding my expertise in **Machine Learning**, **Large Language Models (LLMs)**, **Generative AI** and **Agentic AI systems**.  
+💻 I also have growing experience in **Web Development**, working with modern technologies to build responsive and practical applications.  
+
+🤖 Currently, I am deepening my knowledge in **Machine Learning, Large Language Models (LLMs), Generative AI, Agentic AI Systems, and Intelligent Automation**.  
+
+📚 Alongside development, I continuously practice **Data Structures & Algorithms**, strengthen problem-solving skills, and explore new technologies to stay industry-ready.  
+
+🌱 I believe in continuous learning, consistency, and turning ideas into impactful digital products. 
 
 
 
