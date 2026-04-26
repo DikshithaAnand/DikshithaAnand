@@ -110,7 +110,6 @@
 - 🔹 **FocusSpace – Study Timer App**  
   Calm productivity app with session analytics and insights  
 
-
 ---
 
 ## 📚 Current Focus Areas
@@ -163,21 +162,21 @@
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=DikshithaAnand&theme=tokyonight&hide_border=true"
-    height="500"
+    height="600"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DikshithaAnand&layout=compact&theme=tokyonight&hide_border=true"
-    height="500"
+    height="600"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=DikshithaAnand&theme=tokyo-night"
-    height="500"
+    height="600"
   />
 </p>
 
