@@ -155,7 +155,7 @@
 <p align="center">
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=DikshithaAnand&show_icons=true&theme=tokyonight&hide_border=true"
-    height="500"
+    height="600"
   />
 </p>
 
