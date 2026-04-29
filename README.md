@@ -76,7 +76,7 @@
 ## 🧠 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,docker,linux,streamlit,mysql,git,github,vscode,tensorflow" height="400"/>
+  <img src="https://skillicons.dev/icons?i=java,python,docker,linux,streamlit,mysql,git,github,vscode,tensorflow" height="500"/>
 </p>
 
 ## 💻 Technical Skills
