@@ -202,7 +202,7 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"
-    width="600"
+    width="200"
     alt="Hacker Matrix Code"
   />
 </p>
@@ -228,7 +228,7 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    width="600"
+    width="200"
     alt="Girl Developer Coding"
   />
 </p>
