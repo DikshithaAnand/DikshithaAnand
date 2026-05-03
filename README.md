@@ -78,10 +78,11 @@
   <img src="https://skillicons.dev/icons?i=java,python,docker,linux,streamlit,mysql,git,github,vscode,tensorflow" height="500"/>
 </p>
 
-## 💻 Technical Skills
+## 🚀 Tech Stack
 
-- **Java** – Strong foundation in Core Java, OOP, JDBC, Swing, backend development  
-- **Python** – Automation, data analysis, machine learning, AI-based projects  
+### 👨‍💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Data Structures & Algorithms** – Problem-solving with Java, LeetCode practice, interview prep  
 - **Artificial Intelligence & Machine Learning** – Model training, prediction systems, applied ML workflows  
 - **Deep Learning** – Neural networks, LSTM, TensorFlow, Keras projects  
