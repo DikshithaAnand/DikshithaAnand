@@ -46,80 +46,11 @@
 
 ## 🚀 Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
-### 🧠 Data Structures & Algorithms
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-Problem%20Solving-blue?style=for-the-badge)
-![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode&logoColor=black)
-
----
-
-### 🤖 AI & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-8E44AD?style=for-the-badge)
-
----
-
-### 🧠 Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-6A1B9A?style=for-the-badge)
-![LSTM](https://img.shields.io/badge/LSTM-512DA8?style=for-the-badge)
-
----
-
-### 🗣️ Natural Language Processing (NLP)
-![NLP](https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge)
-![Text Processing](https://img.shields.io/badge/Text%20Processing-27AE60?style=for-the-badge)
-![Chatbots](https://img.shields.io/badge/Chatbots-16A085?style=for-the-badge)
-
----
-
-### 🔍 Explainable AI (XAI)
-![SHAP](https://img.shields.io/badge/SHAP-FF4081?style=for-the-badge)
-![Feature Importance](https://img.shields.io/badge/Feature%20Importance-E91E63?style=for-the-badge)
-
----
-
-### 🌐 Web Development
-![Frontend](https://img.shields.io/badge/Frontend-3498DB?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-2C3E50?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-1ABC9C?style=for-the-badge)
-
----
-
-### 🔗 API Integration
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-### ⚙️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-FF5722?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-2196F3?style=for-the-badge)
-
----
-
-### 🐧 Systems & Databases
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
----
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## ⭐ Featured Projects
 
