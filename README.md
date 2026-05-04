@@ -49,29 +49,6 @@
 
 ---
 
-### ⚙️ Backend & APIs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql" height="400"/>
-</p>
-
----
-
-### 🤖 Artificial Intelligence & Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-OpenAI-8B3DFF?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
----
-
-### 🧰 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="500"/>
-</p>
-
----
-
 ## 🧠 Skills & Technologies
 
 <p align="center">
