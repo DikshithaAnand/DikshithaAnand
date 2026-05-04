@@ -36,17 +36,6 @@
 
 🌱 I believe in continuous learning, consistency, and turning ideas into impactful digital products. 
 
-
----
-
-
-## 🧸 Tech Stack
-
-### 💻 Programming & Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" height="500"/>
-</p>
-
 ---
 
 ## 🧠 Skills & Technologies
