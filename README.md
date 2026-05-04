@@ -52,6 +52,56 @@
 
 ---
 
+### 🧠 Data Structures & Problem Solving
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode&logoColor=black)
+
+---
+
+### 🤖 AI / Machine Learning / Deep Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+---
+
+### 🗣️ NLP & Explainable AI
+![NLP](https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-FF4081?style=for-the-badge)
+![Chatbots](https://img.shields.io/badge/Chatbots-16A085?style=for-the-badge)
+
+---
+
+### 🌐 Web & APIs
+![Frontend](https://img.shields.io/badge/Frontend-3498DB?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-2C3E50?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+### ⚙️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-FF5722?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-2196F3?style=for-the-badge)
+
+---
+
+### 🐧 Databases & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
+
 ## ⭐ Featured Projects
 
 - 🔹 **AI Teacher (Local LLM App)**  
