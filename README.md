@@ -149,6 +149,18 @@
 - Building practical expertise in **Natural Language Processing (NLP)** and machine learning applications
 - Learning **System Design fundamentals** for creating scalable backend systems
 
+---
+
+## 🧪 Problem Solving
+
+- Actively solving problems on LeetCode with a focus on improving problem-solving skills  
+- Practicing key topics like **Arrays, Strings, Sorting, and Basic Algorithms**  
+- Building consistency through regular coding practice  
+- Strengthening understanding of time and space complexity  
+
+🔗 LeetCode Profile: https://leetcode.com/u/Dikshitha_Anand/
+
+---
 
 ## 📈 Growth Mindset
 
