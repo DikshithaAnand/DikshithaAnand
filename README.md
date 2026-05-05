@@ -126,6 +126,28 @@
 - ⚙️ Scalable project architectures with clean code practices  
 
 ---
+### 🔹 Image Classification App
+- Built a **CNN-based image classifier** using TensorFlow  
+- Integrated with **Streamlit UI** for real-time predictions  
+- Supports multiple image categories with user-friendly interface  
+- Demonstrates deep learning model deployment  
+
+---
+
+### 🔹 FocusSpace – Study Timer App
+- Designed a productivity app with **session tracking and analytics**  
+- Helps users maintain focus using structured study sessions  
+- Includes insights for improving study habits  
+- Built with simplicity and user experience in mind  
+
+---
+
+## 📚 Current Focus Areas
+
+- Strengthening advanced **Data Structures and Algorithms** skills using **Java**
+- Exploring **Deep Learning** models, architectures, and optimization strategies
+- Building practical expertise in **Natural Language Processing (NLP)** and machine learning applications
+- Learning **System Design fundamentals** for creating scalable backend systems
 
 
 ## 📈 Growth Mindset
