@@ -102,26 +102,19 @@
 
 ## ⭐ Featured Projects
 
-- 🔹 **AI Teacher (Local LLM App)**  
-  Offline AI topic explainer using Streamlit + Ollama + Phi model
-
-- 🔹 **Loan Approval Prediction System**  
-  End-to-end ML pipeline with EDA, model training, and evaluation  
-
-- 🔹 **Image Classification App**  
-  CNN-based classifier using TensorFlow with Streamlit frontend  
-
-- 🔹 **FocusSpace – Study Timer App**  
-  Calm productivity app with session analytics and insights  
+### 🔹 AI Teacher (Local LLM App)
+- Built an offline AI assistant using **Streamlit + Ollama + Phi model**
+- Generates topic explanations without internet access  
+- Focused on lightweight and efficient local inference  
+- Designed for students to learn concepts interactively  
 
 ---
 
-## 📚 Current Focus Areas
-
-- Strengthening advanced **Data Structures and Algorithms** skills using **Java**
-- Exploring **Deep Learning** models, architectures, and optimization strategies
-- Building practical expertise in **Natural Language Processing (NLP)** and machine learning applications
-- Learning **System Design fundamentals** for creating scalable backend systems
+### 🔹 Loan Approval Prediction System
+- Developed a complete **Machine Learning pipeline** (EDA → preprocessing → model training → evaluation)  
+- Implemented classification models to predict loan approval status  
+- Applied feature engineering and data cleaning techniques  
+- Achieved strong prediction performance (~80–85% accuracy)  
 
 ---
 
