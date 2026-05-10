@@ -151,14 +151,31 @@
 
 ---
 
-## 🧪 Problem Solving
+## 🧪 Problem Solving & Competitive Coding
 
-- Actively solving problems on LeetCode with a focus on improving problem-solving skills  
-- Practicing key topics like **Arrays, Strings, Sorting, and Basic Algorithms**  
-- Building consistency through regular coding practice  
-- Strengthening understanding of time and space complexity  
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+    width="450"
+    alt="Coding Animation"
+  />
+</p>
 
-🔗 LeetCode Profile: https://leetcode.com/u/Dikshitha_Anand/
+- Solving algorithmic challenges regularly on **LeetCode** to improve analytical thinking and coding efficiency  
+- Practicing core concepts including **Arrays, Strings, Recursion, Sorting, Searching, and Binary Trees**  
+- Focused on writing **optimized and clean Java solutions** with proper time and space complexity analysis  
+- Building consistency through daily problem-solving and structured DSA practice  
+- Preparing for technical interviews by strengthening coding fundamentals and debugging skills  
+
+### 🚀 Current DSA Focus
+- Binary Trees & BST
+- Sliding Window Techniques
+- Recursion & Backtracking
+- HashMaps & Stacks
+- Time Complexity Optimization
+
+🔗 **LeetCode Profile:**  
+[leetcode.com/u/Dikshitha_Anand](https://leetcode.com/u/Dikshitha_Anand/)
 
 ---
 
