@@ -24,15 +24,15 @@
 
 ## 👩‍💻 About Me
 
-🎓 Student Developer specializing in **Backend Development and AI systems**  
+🎓 Aspiring Software Developer with a strong interest in **Backend Engineering and Artificial Intelligence**
 
-💻 Skilled in **Python, Java, and API development**, with a focus on building scalable and clean architectures  
+💻 Proficient in **Python, Java, and API Development**, focused on building efficient, scalable, and maintainable applications
 
-🤖 Exploring **Machine Learning, Large Language Models (LLMs), and AI-powered applications**  
+🤖 Passionate about **Machine Learning, Large Language Models (LLMs), and AI-driven solutions**
 
-📈 Actively solving **Data Structures & Algorithms (DSA)** problems to strengthen problem-solving and system design skills  
+📚 Continuously improving problem-solving skills through **Data Structures & Algorithms (DSA)** practice and development projects
 
-🎯 Seeking **internship opportunities** in Software Development, Backend Engineering, or AI/ML roles  
+🚀 Currently seeking opportunities in **Software Development, Backend Development, and AI/ML internships** 
 
 ---
 
