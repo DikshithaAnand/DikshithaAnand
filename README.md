@@ -102,35 +102,29 @@
 
 ## ⭐ Featured Projects
 
+## Projects
+
 ### 🔹 AI Teacher – Offline Learning Assistant
 - Developed a lightweight offline AI teaching assistant using **Streamlit, Ollama, and the Phi LLM**
-- Generates concept explanations and learning support without requiring internet connectivity
-- Optimized for efficient local inference and low-resource systems
-- Designed to provide interactive and accessible learning for students 
+- Generated topic explanations and learning assistance without internet connectivity
+- Optimized for efficient local inference on low-resource systems
+- Designed an interactive learning experience for students
 
 ---
 
 ### 🔹 Loan Approval Prediction System
-- Developed a complete **Machine Learning pipeline** (EDA → preprocessing → model training → evaluation)  
-- Implemented classification models to predict loan approval status  
-- Applied feature engineering and data cleaning techniques  
-- Achieved strong prediction performance (~80–85% accuracy)  
+- Built a complete **Machine Learning pipeline** including EDA, preprocessing, model training, and evaluation
+- Implemented classification algorithms to predict loan approval status
+- Applied feature engineering, missing value handling, and data cleaning techniques
+- Achieved approximately **80–85% model accuracy**
 
 ---
 
-## 🛠️ Currently Building
-
-- 🤖 AI-powered backend systems integrating LLMs and structured APIs  
-- 🎤 Speech-to-speech translation pipelines (ASR → NLP → TTS)  
-- 📊 ML models with explainability and performance evaluation  
-- ⚙️ Scalable project architectures with clean code practices  
-
----
 ### 🔹 Image Classification App
-- Built a **CNN-based image classifier** using TensorFlow  
-- Integrated with **Streamlit UI** for real-time predictions  
-- Supports multiple image categories with user-friendly interface  
-- Demonstrates deep learning model deployment  
+- Developed a **CNN-based image classification model** using TensorFlow
+- Integrated the deep learning model with a **Streamlit web interface**
+- Enabled real-time image prediction across multiple categories
+- Demonstrated practical deployment of deep learning applications
 
 ---
 
