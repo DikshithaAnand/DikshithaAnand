@@ -102,11 +102,11 @@
 
 ## ⭐ Featured Projects
 
-### 🔹 AI Teacher (Local LLM App)
-- Built an offline AI assistant using **Streamlit + Ollama + Phi model**
-- Generates topic explanations without internet access  
-- Focused on lightweight and efficient local inference  
-- Designed for students to learn concepts interactively  
+### 🔹 AI Teacher – Offline Learning Assistant
+- Developed a lightweight offline AI teaching assistant using **Streamlit, Ollama, and the Phi LLM**
+- Generates concept explanations and learning support without requiring internet connectivity
+- Optimized for efficient local inference and low-resource systems
+- Designed to provide interactive and accessible learning for students 
 
 ---
 
