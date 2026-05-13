@@ -251,12 +251,12 @@
 
 <p align="center">
   <i>
-    “Build patiently. Learn deeply. Improve every single day. Take short breaks.”
+    “Build skills quietly. Let your work speak loudly.”
   </i>
 </p>
 
 <p align="center">
-  🌱 Consistency over perfection · Curiosity over fear · Progress over pause
+  💡 Focus on learning · Trust the process · Become better than yesterday
 </p>
 
 ---
