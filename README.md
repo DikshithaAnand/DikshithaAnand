@@ -24,15 +24,13 @@
 
 ## 👩‍💻 About Me
 
-🎓 Aspiring Software Developer with a strong interest in **Backend Engineering and Artificial Intelligence**
+🎓 CSE Student passionate about Software Engineering, Backend Development, and AI/ML
 
-💻 Proficient in **Python, Java, and API Development**, focused on building efficient, scalable, and maintainable applications
+💻 Building projects using Java, Python, FastAPI, React, and Machine Learning
 
-🤖 Passionate about **Machine Learning, Large Language Models (LLMs), and AI-driven solutions**
+🧠 Interested in scalable backend systems, LLMs, NLP, and real-world AI applications
 
-📚 Continuously improving problem-solving skills through **Data Structures & Algorithms (DSA)** practice and development projects
-
-🚀 Currently seeking opportunities in **Software Development, Backend Development, and AI/ML internships** 
+🚀 Currently focused on DSA, full-stack development, and AI-powered products
 
 ---
 
