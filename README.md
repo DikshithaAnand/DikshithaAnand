@@ -148,7 +148,7 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-    width="450"
+    width="300"
     alt="Coding Animation"
   />
 </p>
@@ -216,7 +216,7 @@
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=DikshithaAnand&theme=tokyo-night"
-    height="500"
+    height="300"
   />
 </p>
 
