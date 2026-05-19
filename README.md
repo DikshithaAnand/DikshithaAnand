@@ -2,13 +2,13 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    width="600"
+    width="400"
     alt="Problem Solver"
   />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0B1020&text=Dikshitha%20Anand&fontSize=70&fontColor=7C83FD&stroke=FFC857&strokeWidth=6&fontAlignY=70&font=Brush%20Script%20MT" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0B1020&text=Dikshitha%20Anand&fontSize=70&fontColor=7C83FD&stroke=FFC857&strokeWidth=6&fontAlignY=70&font=Brush%20Script%20MT" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 <p align="center">
   <img
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR2N3k4ZXl5N3F5eXZ5MGR6b3o1Zmd3cWw2b2x1a2k2ZWx0Y2VtYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"
-    width="600"
+    width="400"
   />
 </p>
 
