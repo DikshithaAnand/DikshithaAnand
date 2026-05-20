@@ -151,15 +151,6 @@
 
 ---
 
-## 🔹 Image Classification App
-
-- Developed a CNN-based image classification model using TensorFlow
-- Integrated the model with a Streamlit web interface
-- Enabled real-time prediction across multiple image categories
-- Demonstrated practical deployment of deep learning applications
-
----
-
 ## 🔹 FocusSpace — Study Timer App
 
 - Designed a productivity-focused study timer application
