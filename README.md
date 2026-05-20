@@ -151,15 +151,6 @@
 
 ---
 
-## 🔹 FocusSpace — Study Timer App
-
-- Designed a productivity-focused study timer application
-- Added session tracking and analytics features
-- Helped users improve focus through structured study sessions
-- Built with simplicity and clean user experience in mind
-
----
-
 # 📚 Current Focus Areas
 
 - Strengthening advanced **DSA skills using Java**
