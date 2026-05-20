@@ -1,4 +1,4 @@
-# Dikshitha Anand — Developer Portfolio
+# 🚀 Dikshitha Anand — Developer Portfolio
 
 <!-- ===================== HERO SECTION ===================== -->
 
@@ -33,14 +33,16 @@
 
 💻 Building practical applications using **Java, Python, React, FastAPI, Machine Learning, and Deep Learning**.
 
-🧠 Strong interest in:
-- AI/ML Systems
-- NLP & LLMs
+## 🧠 Interests
+
+- AI & Machine Learning
+- NLP & Large Language Models
 - Backend Development
 - Scalable Applications
 - Real-world Problem Solving
 
-🚀 Currently focused on:
+## 🚀 Currently Focused On
+
 - Data Structures & Algorithms
 - Full-Stack Development
 - AI-powered Applications
@@ -140,13 +142,17 @@
 
 ## 🔹 Loan Approval Prediction System
 
-- Built a complete Machine Learning pipeline including:
-  - Data preprocessing
-  - Feature engineering
-  - Model training
-  - Performance evaluation
+### Features
+
+- Data preprocessing
+- Feature engineering
+- Model training
+- Performance evaluation
+
+### Highlights
+
 - Applied classification algorithms for loan approval prediction
-- Improved model performance using data cleaning and preprocessing techniques
+- Improved performance using preprocessing and data cleaning
 - Achieved approximately **80–85% accuracy**
 
 ---
@@ -171,21 +177,24 @@
   />
 </p>
 
-- Solving algorithmic problems regularly on **LeetCode**
-- Practicing:
-  - Arrays
-  - Strings
-  - Recursion
-  - Sorting
-  - Searching
-  - Binary Trees
-- Focused on writing optimized and clean Java solutions
-- Building consistency through structured daily DSA practice
-- Preparing for technical interviews and coding assessments
+## 💡 Practice Areas
+
+- Arrays
+- Strings
+- Recursion
+- Sorting
+- Searching
+- Binary Trees
+
+## 🎯 Goals
+
+- Writing optimized and clean Java solutions
+- Building consistency through daily DSA practice
+- Preparing for coding interviews and assessments
 
 ---
 
-## 🚀 Current DSA Focus
+# 🚀 Current DSA Focus
 
 - Binary Trees & BST
 - Sliding Window Techniques
@@ -193,7 +202,8 @@
 - HashMaps & Stacks
 - Time Complexity Optimization
 
-🔗 **LeetCode Profile:**  
+## 🔗 LeetCode Profile
+
 [leetcode.com/u/Dikshitha_Anand](https://leetcode.com/u/Dikshitha_Anand/)
 
 ---
@@ -297,7 +307,7 @@
 ---
 
 <p align="center">
-  🤍 Thanks for visiting my profile.  
-  This portfolio grows along with my learning journey.  
+  🤍 Thanks for visiting my profile. <br>
+  This portfolio grows along with my learning journey. <br>
   Let’s connect, collaborate, and build together.
 </p>
