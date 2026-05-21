@@ -4,10 +4,6 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Problem Solver Animation" />
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dikshitha%20Anand&fontSize=55&fontAlignY=40&color=0:0B1020,50:7C83FD,100:FFC857&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
-
 </div>
 
 <div align="center">
