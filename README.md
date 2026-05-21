@@ -1,64 +1,71 @@
 # 🚀 Dikshitha Anand — Developer Portfolio
 
-<!-- ===================== HERO SECTION ===================== -->
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    width="280"
-    alt="Problem Solver Animation"
-  />
-</p>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Problem Solver Animation" />
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0B1020&text=Dikshitha%20Anand&fontSize=70&fontColor=7C83FD&stroke=FFC857&strokeWidth=6&fontAlignY=70&font=Brush%20Script%20MT" 
-    alt="Header Banner"
-  />
-</p>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dikshitha%20Anand&fontSize=55&fontAlignY=40&color=0:0B1020,50:7C83FD,100:FFC857&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+
+</div>
 
 ---
 
 # 👩‍💻 About Me
 
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR2N3k4ZXl5N3F5eXZ5MGR6b3o1Zmd3cWw2b2x1a2k2ZWx0Y2VtYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"
-    width="280"
-    alt="Coding Girl Animation"
-  />
-</p>
+<div align="center">
 
-🎓 Computer Science Engineering student passionate about software development, backend engineering, and Artificial Intelligence.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR2N3k4ZXl5N3F5eXZ5MGR6b3o1Zmd3cWw2b2x1a2k2ZWx0Y2VtYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="280" alt="Coding Girl Animation" />
 
-💻 Building practical applications using **Java, Python, React, FastAPI, Machine Learning, and Deep Learning**.
+</div>
 
-## 🧠 Interests
+🎓 Computer Science Engineering student passionate about software development, backend engineering, Artificial Intelligence, and scalable applications.
 
-- AI & Machine Learning
-- NLP & Large Language Models
-- Backend Development
-- Scalable Applications
-- Real-world Problem Solving
+💻 Building practical applications using:
 
-## 🚀 Currently Focused On
-
-- Data Structures & Algorithms
-- Full-Stack Development
-- AI-powered Applications
-- Backend Architecture
+- Java
+- Python
+- React
+- FastAPI
+- Machine Learning
+- Deep Learning
 
 ---
 
-# 🧠 Skills & Technologies
+# 🧠 Interests
 
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=java,python,docker,linux,streamlit,mysql,git,github,vscode,tensorflow" 
-    height="420"
-    alt="Tech Stack Icons"
-  />
-</p>
+- Artificial Intelligence & Machine Learning
+- NLP & Large Language Models
+- Backend Development
+- Scalable Systems
+- Real-world Problem Solving
+- AI-powered Products
+
+---
+
+# 🚀 Currently Focused On
+
+- Data Structures & Algorithms
+- Full-Stack Development
+- Backend Architecture
+- Deep Learning
+- NLP & AI Systems
+- Competitive Programming
+
+---
+
+# 🛠️ Skills & Technologies
+
+<div align="center">
+
+<img 
+  src="https://skillicons.dev/icons?i=java,python,react,fastapi,docker,linux,mysql,firebase,git,github,vscode,tensorflow" 
+  alt="Tech Stack"
+  height="180"
+/>
+
+</div>
 
 ---
 
@@ -66,41 +73,42 @@
 
 ## 👨‍💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 🧩 Data Structures & Problem Solving
+## 🌐 Web Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Frontend](https://img.shields.io/badge/Frontend-3498DB?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-2C3E50?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 🧩 DSA & Problem Solving
 
 ![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge)
 ![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ---
 
-## 🤖 AI / Machine Learning / Deep Learning
+## 🤖 AI / ML / DL
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ---
 
-## 🗣️ NLP & Explainable AI
+## 🧠 NLP & Explainable AI
 
 ![NLP](https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge)
 ![SHAP](https://img.shields.io/badge/SHAP-FF4081?style=for-the-badge)
 ![Chatbots](https://img.shields.io/badge/Chatbots-16A085?style=for-the-badge)
-
----
-
-## 🌐 Web Development & APIs
-
-![Frontend](https://img.shields.io/badge/Frontend-3498DB?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-2C3E50?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -124,7 +132,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
@@ -133,10 +141,18 @@
 
 ## 🔹 AI Teacher — Offline Learning Assistant
 
-- Developed an offline AI teaching assistant using **Streamlit, Ollama, and Phi LLM**
-- Generated learning explanations without requiring internet access
-- Optimized for lightweight local inference
-- Designed an interactive and student-friendly learning experience
+### Features
+
+- Offline AI learning assistant
+- Lightweight local inference
+- Interactive learning experience
+- Internet-free AI explanations
+
+### Tech Stack
+
+- Streamlit
+- Ollama
+- Phi LLM
 
 ---
 
@@ -151,31 +167,33 @@
 
 ### Highlights
 
-- Applied classification algorithms for loan approval prediction
-- Improved performance using preprocessing and data cleaning
+- Applied classification algorithms for prediction
+- Improved performance using preprocessing techniques
 - Achieved approximately **80–85% accuracy**
 
 ---
 
 # 📚 Current Focus Areas
 
-- Strengthening advanced **DSA skills using Java**
-- Exploring **Deep Learning architectures and optimization**
-- Building expertise in **NLP and Machine Learning**
-- Learning **System Design fundamentals**
+- Strengthening advanced DSA skills using Java
+- Exploring Deep Learning architectures
+- Building expertise in NLP and Machine Learning
+- Learning System Design fundamentals
 - Developing scalable backend systems
 
 ---
 
 # 🧪 Problem Solving & Competitive Coding
 
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-    width="280"
-    alt="Coding Animation"
-  />
-</p>
+<div align="center">
+
+<img 
+  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+  width="280"
+  alt="Coding Animation"
+/>
+
+</div>
 
 ## 💡 Practice Areas
 
@@ -185,12 +203,17 @@
 - Sorting
 - Searching
 - Binary Trees
+- Sliding Window
+- HashMaps & Stacks
+
+---
 
 ## 🎯 Goals
 
-- Writing optimized and clean Java solutions
+- Writing optimized Java solutions
 - Building consistency through daily DSA practice
-- Preparing for coding interviews and assessments
+- Preparing for coding interviews
+- Improving problem-solving speed
 
 ---
 
@@ -202,16 +225,22 @@
 - HashMaps & Stacks
 - Time Complexity Optimization
 
-## 🔗 LeetCode Profile
+---
 
-[leetcode.com/u/Dikshitha_Anand](https://leetcode.com/u/Dikshitha_Anand/)
+# 🔗 Coding Profiles
+
+## LeetCode
+
+```md
+https://leetcode.com/u/Dikshitha_Anand/
+```
 
 ---
 
 # 📈 Growth Mindset
 
 - Passionate about learning through hands-on development
-- Focused on building strong technical fundamentals
+- Focused on strong technical fundamentals
 - Continuously improving through experimentation and debugging
 - Interested in scalable and production-ready applications
 - Dedicated to long-term technical growth
@@ -230,43 +259,35 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=DikshithaAnand&show_icons=true&theme=tokyonight&hide_border=true"
-    height="300"
-    alt="GitHub Stats"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=DikshithaAnand&theme=tokyonight&hide_border=true"
-    height="300"
-    alt="GitHub Streak"
-  />
-</p>
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=DikshithaAnand&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+/>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DikshithaAnand&layout=compact&theme=tokyonight&hide_border=true"
-    height="300"
-    alt="Top Languages"
-  />
-</p>
+<img 
+  src="https://streak-stats.demolab.com?user=DikshithaAnand&theme=tokyonight&hide_border=true"
+  height="180"
+/>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DikshithaAnand&theme=tokyo-night"
-    height="300"
-    alt="Contribution Graph"
-  />
-</p>
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DikshithaAnand&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+/>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=DikshithaAnand&theme=tokyo-night"
+  width="100%"
+/>
+
+</div>
 
 ---
 
 # 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/dikshitha-a-1536b5245/" target="_blank">
   <img 
@@ -282,32 +303,33 @@
   />
 </a>
 
-</p>
+</div>
 
 ---
 
 # 💫 Personal Motto
 
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"
-    width="200"
-    alt="Matrix Animation"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Build skills quietly. Let your work speak loudly."</i>
-</p>
+<img 
+  src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"
+  width="220"
+  alt="Matrix Animation"
+/>
 
-<p align="center">
-  💡 Learn consistently • Trust the process • Improve every day
-</p>
+### *"Build skills quietly. Let your work speak loudly."*
+
+💡 Learn consistently • Trust the process • Improve every day
+
+</div>
 
 ---
 
-<p align="center">
-  🤍 Thanks for visiting my profile. <br>
-  This portfolio grows along with my learning journey. <br>
-  Let’s connect, collaborate, and build together.
-</p>
+<div align="center">
+
+## 🤍 Thanks for Visiting
+
+This portfolio grows together with my learning journey.  
+Let’s connect, collaborate, and build impactful projects together.
+
+</div>
