@@ -1,51 +1,45 @@
-# 🚀 Dikshitha Anand — Developer Portfolio
+# 🚀 Dikshitha Anand
 
 <div align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1020,50:111827,100:1E293B&text=Dikshitha%20Anand&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Open%20Source%20Builder&descAlignY=58&descSize=16"
-alt="Header"
+src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1020,50:111827,100:1E293B&text=Dikshitha%20Anand&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Problem%20Solver&descAlignY=58&descSize=18"
+/>
+
+<img 
+src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=18E0FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Full+Stack+Developer;Java+%7C+Python+%7C+React+Developer;Learning+Every+Single+Day"
 />
 
 </div>
 
 ---
-
-<div align="center">
-
-<img 
-src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
-width="320" 
-alt="Coding Animation"
-/>
-
-</div>
 
 # 👩‍💻 About Me
 
 ```yaml
 Name: Dikshitha Anand
 Role: Computer Science Engineering Student
-Specialization:
-  - Full Stack Development
+Passion:
   - Artificial Intelligence
+  - Backend Development
+  - Full Stack Engineering
+  - Problem Solving
   - Machine Learning
-  - Backend Engineering
 ```
 
-Passionate about building scalable applications, AI-powered systems, and real-world software solutions using modern technologies.
+I enjoy building scalable applications, solving real-world problems, and continuously improving my technical skills through development and competitive programming.
 
 ---
 
-# 🧠 Interests
+# 🧠 Areas of Interest
 
 - Artificial Intelligence & Machine Learning
-- NLP & Large Language Models
-- Backend Development
-- Deep Learning
+- Deep Learning & NLP
+- Backend Engineering
 - System Design
-- Open Source Development
+- Open Source
 - Scalable Applications
+- Competitive Programming
 
 ---
 
@@ -54,29 +48,28 @@ Passionate about building scalable applications, AI-powered systems, and real-wo
 - Data Structures & Algorithms
 - Full Stack Development
 - Backend Architecture
-- Deep Learning & NLP
-- Competitive Programming
-- AI System Development
+- AI & NLP Systems
+- Problem Solving
+- Production-Level Projects
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
 <img 
 src="https://skillicons.dev/icons?i=java,python,react,fastapi,tensorflow,docker,mysql,firebase,linux,git,github,vscode"
-height="180"
-alt="Tech Stack"
+height="190"
 />
 
 </div>
 
 ---
 
-# 👨‍💻 Programming Languages
+# 👨‍💻 Languages
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -85,9 +78,9 @@ alt="Tech Stack"
 
 ---
 
-# 🌐 Web Development
+# 🌐 Development
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -101,7 +94,7 @@ alt="Tech Stack"
 
 # 🤖 AI / ML / DL
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge"/>
@@ -114,7 +107,7 @@ alt="Tech Stack"
 
 # ⚙️ Tools & Technologies
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -129,14 +122,13 @@ alt="Tech Stack"
 
 ---
 
-# 🧩 DSA & Competitive Programming
+# 🧩 DSA & Problem Solving
 
 <div align="center">
 
 <img 
 src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-width="260"
-alt="DSA Animation"
+width="280"
 />
 
 </div>
@@ -148,9 +140,9 @@ alt="DSA Animation"
 - Recursion
 - Sliding Window
 - Binary Trees
-- HashMaps
-- Stacks & Queues
-- Searching & Sorting
+- Graphs
+- Dynamic Programming
+- HashMaps & Stacks
 
 ---
 
@@ -162,8 +154,8 @@ alt="DSA Animation"
 
 - Offline AI learning assistant
 - Lightweight local inference
-- Internet-free explanations
-- Interactive learning system
+- Interactive learning experience
+- Internet-free AI explanations
 
 ### Tech Stack
 
@@ -180,33 +172,33 @@ alt="DSA Animation"
 - Data preprocessing
 - Feature engineering
 - Model training
-- Performance evaluation
+- Prediction analysis
 
 ### Highlights
 
-- Built classification models for prediction
-- Improved accuracy using preprocessing techniques
+- Built ML classification models
+- Improved prediction accuracy
 - Achieved approximately **80–85% accuracy**
 
 ---
 
-# 📚 Current Learning Goals
+# 📚 Learning Journey
 
-- Advanced DSA using Java
+- Advanced Java DSA
 - Deep Learning Architectures
-- NLP & Machine Learning
+- NLP & AI Systems
 - Backend System Design
 - Scalable API Development
 
 ---
 
-# 🎯 Goals for 2026
+# 🎯 2026 Goals
 
-- Build production-ready AI systems
-- Improve problem-solving consistency
-- Gain internship experience
+- Build production-ready AI applications
+- Strengthen DSA consistency
+- Gain industry internship experience
 - Contribute to open source
-- Strengthen backend engineering skills
+- Improve backend engineering expertise
 
 ---
 
@@ -220,7 +212,7 @@ height="180"
 />
 
 <img 
-src="https://streak-stats.demolab.com?user=DikshithaAnand&theme=tokyonight&hide_border=true"
+src="https://github-readme-streak-stats.herokuapp.com/?user=DikshithaAnand&theme=tokyonight&hide_border=true"
 height="180"
 />
 
@@ -233,9 +225,33 @@ height="180"
 
 ---
 
-# 🔗 Coding Profiles
+# 🔥 Contribution Graph
 
-## 💻 LeetCode
+<div align="center">
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=DikshithaAnand&theme=tokyo-night&hide_border=true&area=true"
+/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img 
+src="https://github-profile-trophy.vercel.app/?username=DikshithaAnand&theme=tokyonight&no-frame=true&margin-w=15&row=1"
+/>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+## LeetCode
 
 ```txt
 https://leetcode.com/u/Dikshitha_Anand/
@@ -248,34 +264,35 @@ https://leetcode.com/u/Dikshitha_Anand/
 <div align="center">
 
 <a href="https://github.com/DikshithaAnand">
-  <img 
-  src="https://img.shields.io/badge/GitHub-DikshithaAnand-181717?style=for-the-badge&logo=github&logoColor=white"
-  />
+<img 
+src="https://img.shields.io/badge/GitHub-DikshithaAnand-181717?style=for-the-badge&logo=github&logoColor=white"
+/>
 </a>
 
 <a href="https://www.linkedin.com/in/dikshitha-a-1536b5245/">
-  <img 
-  src="https://img.shields.io/badge/LinkedIn-Dikshitha%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
+<img 
+src="https://img.shields.io/badge/LinkedIn-Dikshitha%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
 </a>
 
 </div>
 
 ---
 
-# 💫 Personal Motto
+# 💫 Motto
 
 <div align="center">
 
 <img 
 src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"
-width="220"
-alt="Motivation"
+width="240"
 />
 
 ### *"Build skills quietly. Let your work speak loudly."*
 
-Learn consistently • Trust the process • Improve every day
+⭐ Learn consistently  
+🚀 Build fearlessly  
+💡 Improve daily
 
 </div>
 
@@ -285,10 +302,8 @@ Learn consistently • Trust the process • Improve every day
 
 # 🤍 Thanks for Visiting
 
-This portfolio grows together with my learning journey.
+This profile grows with my journey in tech, AI, and development.
 
-⭐ Always learning  
-🚀 Always building  
-💡 Always improving
+### ⭐ Keep Learning • Keep Building • Keep Growing
 
 </div>
