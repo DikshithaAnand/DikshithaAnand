@@ -20,7 +20,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&
 Name: Dikshitha Anand
 Role: Computer Science Engineering Student
 Passion:
-  - Artificial Intelligence
+  - AI & Cyber Security
   - Backend Development
   - Full Stack Engineering
   - Problem Solving
