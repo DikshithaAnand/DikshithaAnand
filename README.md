@@ -24,7 +24,6 @@ Passion:
   - Backend Development
   - Full Stack Engineering
   - Problem Solving
-  - Machine Learning
 ```
 
 I enjoy building scalable applications, solving real-world problems, and continuously improving my technical skills through development and competitive programming.
