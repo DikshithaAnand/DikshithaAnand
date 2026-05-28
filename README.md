@@ -164,22 +164,6 @@ width="280"
 
 ---
 
-## 🔹 Loan Approval Prediction System
-
-### Features
-
-- Data preprocessing
-- Feature engineering
-- Model training
-- Prediction analysis
-
-### Highlights
-
-- Built ML classification models
-- Improved prediction accuracy
-- Achieved approximately **80–85% accuracy**
-
----
 
 # 📚 Learning Journey
 
