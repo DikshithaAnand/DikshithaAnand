@@ -147,14 +147,101 @@ width="280"
 
 # ⭐ Featured Projects
 
-## 🔹 AI Teacher — Offline Learning Assistant
+---
+
+## 🔹 MindScan — AI Cognitive Analysis System
 
 ### Features
 
-- Offline AI learning assistant
-- Lightweight local inference
-- Interactive learning experience
-- Internet-free AI explanations
+- AI-powered cognitive analysis
+- Smart pattern recognition
+- Predictive insights dashboard
+- Interactive data visualization
+
+### Tech Stack
+
+- Python
+- Machine Learning
+- TensorFlow
+- Streamlit
+
+### Highlights
+
+- Built intelligent prediction workflows
+- Improved analytical accuracy using ML models
+- Designed an interactive AI-based interface
+
+---
+
+## 🔹 Air Quality Monitoring System
+
+### Features
+
+- Real-time air quality tracking
+- Sensor-based environmental monitoring
+- Pollution level analysis
+- Live dashboard visualization
+
+### Tech Stack
+
+- IoT
+- Arduino / ESP32
+- Python
+- Firebase
+
+### Highlights
+
+- Integrated hardware sensors with cloud database
+- Built real-time monitoring and reporting system
+- Focused on smart environmental solutions
+
+---
+
+## 🔹 Pronounce Prototype
+
+### Features
+
+- Pronunciation analysis system
+- Real-time speech feedback
+- Interactive pronunciation assistance
+- AI-powered learning support
+
+### Tech Stack
+
+- Python
+- NLP
+- Speech Recognition
+- AI Models
+
+### Highlights
+
+- Developed speech-based learning assistance
+- Implemented pronunciation evaluation concepts
+- Improved interactive language learning experience
+
+---
+
+## 🔹 Explainable AI (XAI) System
+
+### Features
+
+- Transparent AI predictions
+- Feature importance visualization
+- Human-readable AI explanations
+- Interactive model analysis dashboard
+
+### Tech Stack
+
+- Python
+- SHAP
+- Scikit-learn
+- Streamlit
+
+### Highlights
+
+- Improved trust and transparency in AI systems
+- Visualized model decision-making process
+- Applied Explainable AI concepts to ML workflows
 
 ### Tech Stack
 
