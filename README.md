@@ -276,20 +276,9 @@ width="280"
 
 <div align="center">
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=DikshithaAnand&show_icons=true&theme=tokyonight&hide_border=true"
-height="180"
-/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DikshithaAnand&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=DikshithaAnand&theme=tokyonight&hide_border=true"
-height="180"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshithaAnand&layout=compact&theme=tokyonight&hide_border=true"
-height="180"
-/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshithaAnand&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -297,34 +286,15 @@ height="180"
 
 # 🔥 Contribution Graph
 
-<div align="center">
-
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=DikshithaAnand&theme=tokyo-night&hide_border=true&area=true"
-/>
-
-</div>
+[![Dikshitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DikshithaAnand&theme=tokyo-night)](https://github.com/DikshithaAnand)
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+![](https://github-profile-trophy.vercel.app/?username=DikshithaAnand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
 
-<img 
-src="https://github-profile-trophy.vercel.app/?username=DikshithaAnand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-/>
 
-</div>
----
-
-# 💻 Coding Profiles
-
-## LeetCode
-
-```txt
-https://leetcode.com/u/Dikshitha_Anand/
-```
 
 ---
 
