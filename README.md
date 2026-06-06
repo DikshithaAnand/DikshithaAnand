@@ -274,11 +274,7 @@ width="280"
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DikshithaAnand&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshithaAnand&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DikshithaAnand&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshithaAnand&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
 </div>
 
