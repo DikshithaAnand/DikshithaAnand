@@ -272,12 +272,11 @@ width="280"
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DikshithaAnand&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshithaAnand&layout=compact&theme=radical" alt="Top Languages" /> </p>
-
-</div>
-
+# 📊 GitHub Analytics 
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=DikshithaAnand&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180em" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshithaAnand&layout=compact&theme=tokyonight&cache_seconds=1800" height="180em" /> 
+</p> 
 ---
 
 # 🔥 Contribution Graph
