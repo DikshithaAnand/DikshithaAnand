@@ -302,9 +302,9 @@ width="280"
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=DikshithaAnand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DikshithaAnand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
