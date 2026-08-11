@@ -220,36 +220,6 @@ width="280"
 
 ---
 
-## 🔹 Explainable AI (XAI) System
-
-### Features
-
-- Transparent AI predictions
-- Feature importance visualization
-- Human-readable AI explanations
-- Interactive model analysis dashboard
-
-### Tech Stack
-
-- Python
-- SHAP
-- Scikit-learn
-- Streamlit
-
-### Highlights
-
-- Improved trust and transparency in AI systems
-- Visualized model decision-making process
-- Applied Explainable AI concepts to ML workflows
-
-### Tech Stack
-
-- Streamlit
-- Ollama
-- Phi LLM
-
----
-
 
 # 📚 Learning Journey
 
